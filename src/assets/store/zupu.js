@@ -51,13 +51,13 @@ const zupu = {
                 member:[
                   {
                     num: '006',
-                    name: '张三儿子888',
+                    name: '张三儿子',
                     sex: '男'
                   },
                   {
                     num: '007',
                     name: '张三女儿333',
-                    sex: '女nv'
+                    sex: '女'
                   }
                 ]
             }

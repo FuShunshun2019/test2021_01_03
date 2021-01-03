@@ -88,7 +88,7 @@
 		},
 		watch:{},
 		mounted(){
-			//得到总宽度
+			//得到总宽度--
 			let w = $(".zupuBox").width();
 			//总共多少个人
 			let c = this.member.length;
