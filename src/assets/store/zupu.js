@@ -60,7 +60,18 @@ const zupu = {
                     sex: '男'
                   }
                 ]
+            },
+           {
+                level: 4,
+                member:[
+                  {
+                    num: '008',
+                    name: '张三孙子',
+                    sex: '男'
+                  }
+                ]
             }
+          
 
         ]
     }
