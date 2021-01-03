@@ -1,0 +1,42 @@
+[33mcommit b44add8b269df802ee92c51230bb04e80b656324[m[33m ([m[1;36mHEAD -> [m[1;32madd_person20210103[m[33m)[m
+Merge: 48ae295 e0c9e07
+Author: fuxiaomi <180.@163.com>
+Date:   Sun Jan 3 19:48:07 2021 +0800
+
+    Merge branch 'main' into add_person20210103
+
+[33mcommit e0c9e070526d78b38d63ddaa46781e96521f70e0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: FuShunshun2019 <75267291+FuShunshun2019@users.noreply.github.com>
+Date:   Sun Jan 3 19:41:45 2021 +0800
+
+    Update and rename src/assets/store/zupu.js to src/资产/商店/zupu.js
+
+[33mcommit 48ae295f74c4b4f601610934e65ca66586055202[m
+Author: fuxiaomi <180.@163.com>
+Date:   Sun Jan 3 19:39:35 2021 +0800
+
+    新增张三孙子和孙女
+
+[33mcommit 5a21b589f3d896ee1fc77cc7c9b53f7628baa9c1[m[33m ([m[1;31morigin/add_person20210103[m[33m)[m
+Author: fuxiaomi <180.@163.com>
+Date:   Sun Jan 3 18:42:24 2021 +0800
+
+    修改背景色为蓝色了
+
+[33mcommit 3fabecc289e423c0aa5632320583607010f80a63[m
+Author: fuxiaomi <180.@163.com>
+Date:   Sun Jan 3 18:39:12 2021 +0800
+
+    修改为红色背景
+
+[33mcommit 6b5a55a0d13062aa9796d47e52f2565cc4990e23[m
+Author: fuxiaomi <180.@163.com>
+Date:   Sun Jan 3 18:01:28 2021 +0800
+
+    提交到本地仓库了
+
+[33mcommit 6e5a51ffcf87b030e2de54aba46abf711d3454ba[m
+Author: FuShunshun2019 <75267291+FuShunshun2019@users.noreply.github.com>
+Date:   Sun Jan 3 17:43:33 2021 +0800
+
+    Initial commit
