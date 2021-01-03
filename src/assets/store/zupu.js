@@ -57,7 +57,11 @@ const zupu = {
                   {
                     num: '007',
                     name: '张三女儿333',
+<<<<<<< HEAD
                     sex: '女nv'
+=======
+                    sex: '男'
+>>>>>>> 34c00fe44cbd18ae8c2b2cd28dd31b01b8015d8e
                   }
                 ]
             }
