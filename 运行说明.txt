@@ -1,0 +1,5 @@
+1.先安装所有的依赖
+ cnpm install
+
+2. 运行
+cnpm run dev
