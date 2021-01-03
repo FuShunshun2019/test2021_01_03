@@ -30,9 +30,14 @@
         
     }
 
+    .haha{
+      background-color:red;
+    }
+
 </style>
 <template>
   <div class="family_container">
+      <p class="haha">哈哈哈哈哈哈</p>
       <h3> {{ title }} </h3>
       <div class="zupuBox">
         <!-- 每一代的人员，以代为单位 -->
