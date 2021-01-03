@@ -68,7 +68,7 @@ const zupu = {
                   {
                     num: '008',
                     name: '张三孙女',
-                    sex: '女女女'
+                    sex: '女nv'
                   }
                 ]
             }
