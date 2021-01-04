@@ -38,6 +38,7 @@
 <template>
   <div class="family_container">
       <p class="haha">嘻嘻嘻</p>
+      <p>滚滚滚</p>
       <h3> {{ title }} </h3>
       <div class="zupuBox">
         <!-- 每一代的人员，以代为单位 -->
